@@ -14,8 +14,8 @@
     --border-color: black;
     --background-color: white;
     --accent-color: #a5c7cf;
-    font-family: "DotGothic16", sans-serif;
     scroll-behavior: smooth;
+    font-family: "DotGothic16", sans-serif;
     background-color: var(--background-color);
     color: var(--text-color);
 }

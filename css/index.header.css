@@ -47,13 +47,13 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+  }
 
-    .header__title {
-      font-size: 3.5rem;
-      text-transform: uppercase;
-      text-align: center;
-      font-weight: bold;
-      color: var(--accent-color);
-    }
+  .header__title {
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    color: var(--accent-color)
   }
 }
